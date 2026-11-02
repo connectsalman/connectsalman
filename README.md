@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Salman 👋
 
-<!--
-**connectsalman/connectsalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solidity developer in training, learning smart contract development and security.
 
-Here are some ideas to get you started:
+## What I'm building
+- [hello-solidity](https://github.com/connectsalman/hello-solidity): my first Solidity smart contract
+- [CrowdfundingBlockchain](https://github.com/connectsalman/CrowdfundingBlockchain): a crowdfunding dApp on Ethereum (rebuilding it with tests and fixes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+- Blockchain Development 
+- Solidity and Foundry
+- Smart contract security
+- Git and GitHub
+
+## Learning log
+I commit small steps and notes regularly. Follow along in my repos above.
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/connectsalmankhan]
+- X: [https://x.com/nextsalman_]
+- Email: [nextsalmankhan@gmail.com]
