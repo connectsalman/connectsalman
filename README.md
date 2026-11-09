@@ -1,13 +1,18 @@
-# Hi, I'm Salman 👋
+# Smart Contract Security Researcher
 
-Solidity developer in training, learning smart contract development and security.
+Ethereum | Solidity | Foundry
+
+- 🔍 Learning smart contract security
+- 🛠️ Building: simple-wallet, English-Auction
+- 🎯 Goal: contest audits on Code4rena, Sherlock, CodeHawks
 
 ## What I'm building
-- [hello-solidity](https://github.com/connectsalman/hello-solidity): my first Solidity smart contract
-- [CrowdfundingBlockchain](https://github.com/connectsalman/CrowdfundingBlockchain): a crowdfunding dApp on Ethereum (rebuilding it with tests and fixes)
+- [simple-wallet](https://github.com/connectsalman/simple-wallet): ETH deposit and owner-only withdraw
+- [English-Auction](https://github.com/connectsalman/English-Auction): English auction smart contract
+- [CrowdfundingBlockchain](https://github.com/connectsalman/CrowdfundingBlockchain): crowdfunding dApp on Ethereum (rebuilding it with tests and fixes)
+- [Hello-Solidity](https://github.com/connectsalman/Hello-Solidity): my first Solidity smart contract
 
 ## What I'm learning
-- Blockchain Development 
 - Solidity and Foundry
 - Smart contract security
 - Git and GitHub
@@ -16,6 +21,6 @@ Solidity developer in training, learning smart contract development and security
 I commit small steps and notes regularly. Follow along in my repos above.
 
 ## Contact
-- LinkedIn: [https://www.linkedin.com/in/connectsalmankhan]
-- X: [https://x.com/nextsalman_]
-- Email: [nextsalmankhan@gmail.com]
+- LinkedIn: [connectsalmankhan](https://www.linkedin.com/in/connectsalmankhan)
+- X: [@nextsalman_](https://x.com/nextsalman_)
+- Email: [nextsalmankhan@gmail.com](mailto:nextsalmankhan@gmail.com)
