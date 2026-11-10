@@ -8,6 +8,7 @@ Ethereum | Solidity | Foundry
 
 ## What I'm building
 - [vulnerabilities-poc](https://github.com/connectsalman/vulnerabilities-poc): Foundry exploits and fixes for smart contract bugs (reentrancy first)
+- [fuzz-and-invariant-tests](https://github.com/connectsalman/fuzz-and-invariant-tests): Foundry fuzz and invariant tests for a wallet contract
 - [simple-wallet](https://github.com/connectsalman/simple-wallet): ETH deposit and owner-only withdraw
 - [English-Auction](https://github.com/connectsalman/English-Auction): English auction smart contract
 - [CrowdfundingBlockchain](https://github.com/connectsalman/CrowdfundingBlockchain): crowdfunding dApp on Ethereum (rebuilding it with tests and fixes)
