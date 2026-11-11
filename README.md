@@ -3,11 +3,11 @@
 Ethereum | Solidity | Foundry
 
 - 🔍 Learning smart contract security
-- 🛠️ Building: vulnerabilities-poc, simple-wallet, English-Auction
+- 🛠️ Building: vulnerabilities-poc, fuzz-and-invariant-tests, ctf-writeups
 - 🎯 Goal: contest audits on Code4rena, Sherlock, CodeHawks
 
 ## What I'm building
-- [vulnerabilities-poc](https://github.com/connectsalman/vulnerabilities-poc): Foundry exploits and fixes for smart contract bugs (reentrancy first)
+- [vulnerabilities-poc](https://github.com/connectsalman/vulnerabilities-poc): Foundry exploits and fixes for reentrancy, access control and tx.origin bugs
 - [fuzz-and-invariant-tests](https://github.com/connectsalman/fuzz-and-invariant-tests): Foundry fuzz and invariant tests for a wallet contract
 - [ctf-writeups](https://github.com/connectsalman/ctf-writeups): Ethernaut writeups with the bug, attack and fix for each level
 - [simple-wallet](https://github.com/connectsalman/simple-wallet): ETH deposit and owner-only withdraw
@@ -17,7 +17,9 @@ Ethereum | Solidity | Foundry
 
 ## What I'm learning
 - Solidity and Foundry
-- Smart contract security
+- Smart contract security 
+- Fuzz and invariant testing
+- CTFs (Ethernaut)
 - Git and GitHub
 
 ## Learning log
