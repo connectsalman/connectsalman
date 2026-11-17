@@ -3,7 +3,7 @@
 Ethereum | Solidity | Foundry
 
 - 🔍 Learning smart contract security
-- 🛠️ Building: vulnerabilities-poc, fuzz-and-invariant-tests, ctf-writeups
+- 🛠️ Building: vulnerabilities-poc, fuzz-and-invariant-tests, ctf-writeups, audit-reports
 - 🎯 Goal: contest audits on Code4rena, Sherlock, CodeHawks
 
 ## What I'm building
@@ -21,6 +21,7 @@ Ethereum | Solidity | Foundry
 - Smart contract security 
 - Fuzz and invariant testing
 - CTFs (Ethernaut)
+- Audit Reports
 - Git and GitHub
 
 ## Learning log
